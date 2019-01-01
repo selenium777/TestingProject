@@ -9,7 +9,7 @@ public class Log4jDemo {
 	
 	public static void main(String[] args) {
 
-		logger.debug("2 This is debug message...");
+		logger.debug("3 This is debug message...");
 		logger.error("1 error message...");
 		logger.info("1 info message....");
 		logger.warn("1 warn message...");
